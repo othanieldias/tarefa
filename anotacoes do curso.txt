@@ -1,0 +1,26 @@
+git branch de trabalho = git checkout -b inclusao-de-arquivo
+
+-b = criacao de branch.
+git checkout = é quando quero mudar de branch.
+
+pull request = colocar alterações em produção.
+
+merge request = agrupando com a master.
+
+git pull = atualizando a branch.
+
+git merge = atualizar para a branch Main
+
+
+so consigo voltar pra branch master se todas alteracoes tiverem subidas
+o github.
+
+como fazer o merge request: 
+primeiro passo voltar para branch MASTER
+
+
+
+
+
+
+
